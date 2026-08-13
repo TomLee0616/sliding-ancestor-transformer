@@ -1,0 +1,17 @@
+node_modules
+dist
+dist-pages
+.vite
+
+# RIFE 中间产物
+output/
+
+# 工具链（RIFE 等，体积大，不入库）
+tools/
+
+# ZCode 内部文件
+.zcode/
+
+# 调试用临时脚本
+scripts/align_test.py
+scripts/rife_aligned_test.py
