@@ -4,6 +4,9 @@
 把一根滑杆变成「宁系强度校准器」的网页玩具。拖动滑杆（或用键盘），观察角色在 241 帧插值视频里连续进化，从「小难宁」一路变成戴皇冠的「宁祖」。
 
 参考自 [Lichtspektrum/liang-intensity-calibrator](https://github.com/Lichtspektrum/liang-intensity-calibrator)，本项目把所有「梁」替换为「宁」，并改用 6 张阶段代表图 + 两轮 RIFE 插值来生成视频。
+## 在线体验
+
+https://tomlee0616.github.io/sliding-ancestor-transformer/
 
 ## 功能
 
